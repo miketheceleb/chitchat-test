@@ -6,29 +6,29 @@ body {
   background-color: black;
   height: 15px:
   width: 10%;
-  position: inline-block;
+  display: inline-block;
 }
 .search {
   background-color: black;
   height: 15px:
   width: 60%;
-  position: inline-block;
+  display: inline-block;
 }
 .settings {
   background-color: black;
   height: 15px:
   width: 30%;
-  position: inline-block;
+  display: inline-block;
 }
 .navigation {
   background-color: white;
   width: 100px;
-  position: inline-block;
+  display: inline-block;
 }
 .services {
   background-color: white;
   width: 100px;
-  position: inline-block;
+  display: inline-block;
 }
 .footer {
   background-color: lightgrey;
