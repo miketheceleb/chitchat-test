@@ -1,0 +1,12 @@
+body {
+  background-color: grey;
+}
+.logo {
+  position: inline-block;
+}
+.search {
+  position: inline-block;
+}
+.settings {
+  position: inline-block;
+}
