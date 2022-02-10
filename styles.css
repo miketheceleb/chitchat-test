@@ -37,12 +37,12 @@ body {
 /* Body information */
 
 .mid {
-  margin: o;
+  margin-top: 0;
   text-align: center;
 }
 .mid-contianer {
+  margin: 0 auto 0 auto;
   width: 60%;
-  margin: 10 auto 10 auto;
 }
 .navigation {
   background-color: white;
@@ -54,7 +54,6 @@ body {
   background-color: white;
   width: 300px;
   height: 300px;
-  margin-left: 5px;
   display: inline-block;
 }
 .footer {
