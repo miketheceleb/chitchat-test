@@ -9,6 +9,7 @@ body {
 }
 .top-container {
   width: 60%;
+  margin: 0;
 }
 .logo {
   background-color: black;
@@ -41,6 +42,7 @@ img {
 }
 .mid-contianer {
   width: 60%;
+  margin: 0;
 }
 .navigation {
   background-color: white;
