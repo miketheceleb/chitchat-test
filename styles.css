@@ -41,8 +41,8 @@ body {
   text-align: center;
 }
 .mid-contianer {
-  margin: 0 auto 0 auto;
-  width: 60%;
+  margin: 10 auto 0 auto;
+  //width: 60%;
 }
 .navigation {
   background-color: white;
