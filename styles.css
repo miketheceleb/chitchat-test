@@ -2,6 +2,9 @@ body {
   background-color: #E8E8E8;
   margin: 0;
 }
+.top {
+  margin: 0;
+}
 .logo {
   background-color: black;
   color: white:
@@ -22,6 +25,9 @@ body {
   height: 15px:
   width: 30%;
   display: inline-block;
+}
+.mid {
+  margin: o;
 }
 .navigation {
   background-color: white;
