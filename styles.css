@@ -1,12 +1,12 @@
 body {
   background-color: #E8E8E8;
   margin: 0;
-  text-align: center;
-  width: 60%;
 }
 .top {
   background-color: black;
   margin: 0;
+  text-align: center;
+  width: 60%;
 }
 .logo {
   background-color: black;
@@ -35,6 +35,8 @@ img {
 }
 .mid {
   margin: o;
+  text-align: center;
+  width: 60%;
 }
 .navigation {
   background-color: white;
