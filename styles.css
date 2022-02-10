@@ -6,6 +6,8 @@ body {
   background-color: black;
   margin: 0;
   text-align: center;
+}
+.top-container {
   width: 60%;
 }
 .logo {
@@ -36,6 +38,8 @@ img {
 .mid {
   margin: o;
   text-align: center;
+}
+.mid-contianer {
   width: 60%;
 }
 .navigation {
