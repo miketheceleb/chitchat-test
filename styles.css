@@ -5,11 +5,11 @@ body {
 .top {
   background-color: black;
   margin: 0;
+  height: 15px;
   text-align: center;
 }
 .top-container {
   width: 60%;
-  height: 15px;
   margin: 0 auto 0 auto;
 }
 .logo {
