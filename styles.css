@@ -1,12 +1,33 @@
 body {
   background-color: grey;
+  margin: 0;
 }
 .logo {
+  background-color: black;
+  height: 15px:
+  width: 10%;
   position: inline-block;
 }
 .search {
+  background-color: black;
+  height: 15px:
+  width: 60%;
   position: inline-block;
 }
 .settings {
+  background-color: black;
+  height: 15px:
+  width: 30%;
   position: inline-block;
+}
+.navigation {
+  background-color: white;
+  position: inline-block;
+}
+.services {
+  background-color: white;
+  position: inline-block;
+}
+.footer {
+  background-color: lightgrey;
 }
