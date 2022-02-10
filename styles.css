@@ -43,16 +43,18 @@ img {
 }
 .mid-contianer {
   width: 60%;
-  margin: 0 auto 0 auto;
+  margin: 10 auto 10 auto;
 }
 .navigation {
   background-color: white;
   width: 50px;
+  height: 300px
   display: inline-block;
 }
 .services {
   background-color: white;
-  width: 50px;
+  width: 300px;
+  height: 300px;
   margin-left: 5px;
   display: inline-block;
 }
