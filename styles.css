@@ -2,10 +2,13 @@ body {
   background-color: #E8E8E8;
   margin: 0;
 }
+
+/* Header information */
+
 .top {
   background-color: black;
   margin: 0;
-  height: 15px;
+  height: 25px;
   text-align: center;
 }
 .top-container {
@@ -15,28 +18,24 @@ body {
 .logo {
   background-color: black;
   color: white;
-  height: 15px:
   width: 10%;
   display: inline-block;
 }
 .search {
   background-color: black;
   color: white;
-  height: 15px:
   width: 60%;
   display: inline-block;
-}
-img {
-  width: 15px;
-  height: 15px;
 }
 .settings {
   background-color: black;
   color: white;
-  height: 15px:
   width: 30%;
   display: inline-block;
 }
+
+/* Body information */
+
 .mid {
   margin: o;
   text-align: center;
