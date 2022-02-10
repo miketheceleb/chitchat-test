@@ -1,35 +1,39 @@
 body {
-  background-color: grey;
+  background-color: #E8E8E8;
   margin: 0;
 }
 .logo {
   background-color: black;
+  color: white:
   height: 15px:
   width: 10%;
   display: inline-block;
 }
 .search {
   background-color: black;
+  color: white;
   height: 15px:
   width: 60%;
   display: inline-block;
 }
 .settings {
   background-color: black;
+  color: white;
   height: 15px:
   width: 30%;
   display: inline-block;
 }
 .navigation {
   background-color: white;
-  width: 100px;
+  width: 50px;
   display: inline-block;
 }
 .services {
   background-color: white;
-  width: 100px;
+  width: 50px;
+  margin-left: 5px;
   display: inline-block;
 }
 .footer {
-  background-color: lightgrey;
+  background-color: grey;
 }
