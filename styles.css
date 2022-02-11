@@ -1,6 +1,7 @@
 body {
   background-color: #E8E8E8;
   margin: 0;
+  text-align: center;
 }
 
 /* Header information */
@@ -9,11 +10,10 @@ body {
   background-color: black;
   margin: 0;
   height: 25px;
-  text-align: center;
 }
 .top-container {
   width: 50%;
-  margin: 0 auto 0 auto;
+  //margin: 0 auto;
 }
 .logo {
   background-color: black;
@@ -43,7 +43,6 @@ form {
 
 .middle {
   margin: 0;
-  text-align: center;
 }
 .mid-container {
   margin: 5px auto 0 auto;
