@@ -24,7 +24,7 @@ body {
 .search {
   background-color: black;
   color: white;
-  width: 40%;
+  width: 30%;
   display: inline-block;
 }
 form {
@@ -33,7 +33,7 @@ form {
 .settings {
   background-color: black;
   color: white;
-  width: 30%;
+  width: 10%;
   display: inline-block;
 }
 
