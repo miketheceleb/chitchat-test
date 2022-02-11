@@ -41,7 +41,7 @@ form {
 
 .mid {
   margin: 0;
-  width: 100%;
+  background-color: blue;
 }
 .mid-container {
   margin: 10 auto 0 auto;
