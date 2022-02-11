@@ -1,5 +1,5 @@
 body {
-  background-color: blue;
+  background-color: #E8E8E8;
   margin: 0;
 }
 
@@ -40,8 +40,7 @@ form {
 /* Body information */
 
 .mid {
-  margin-top: 0;
-  text-align: center;
+  margin: 0 auto 0 auto;
 }
 .mid-contianer {
   margin: 10 auto 0 auto;
