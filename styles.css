@@ -12,7 +12,7 @@ body {
   text-align: center;
 }
 .top-container {
-  width: 60%;
+  width: 50%;
   margin: 0 auto 0 auto;
 }
 .logo {
@@ -20,6 +20,7 @@ body {
   color: white;
   width: 10%;
   display: inline-block;
+  text-align: left;
 }
 .search {
   background-color: black;
@@ -35,6 +36,7 @@ form {
   color: white;
   width: 10%;
   display: inline-block;
+  text-align: right;
 }
 
 /* Body information */
