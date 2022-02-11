@@ -54,6 +54,7 @@ form {
   width: 175px;
   height: 300px;
   display: inline-block;
+  text-align: left;
 }
 .services {
   background-color: white;
