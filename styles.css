@@ -12,7 +12,7 @@ body {
   text-align: center;
 }
 .top-container {
-  width: 50%;
+  width: 60%;
   margin: 0 auto 0 auto;
 }
 .logo {
@@ -24,7 +24,7 @@ body {
 .search {
   background-color: black;
   color: white;
-  width: 60%;
+  width: 40%;
   display: inline-block;
 }
 .settings {
