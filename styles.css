@@ -21,14 +21,14 @@ div {
 .logo {
   background-color: black;
   color: white;
-  width: 20%;
+  width: 10%;
   display: inline-block;
   text-align: left;
 }
 .search {
   background-color: black;
   color: white;
-  width: 30%;
+  width: 20%;
   display: inline-block;
 }
 form {
