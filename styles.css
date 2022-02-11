@@ -45,6 +45,7 @@ form {
 }
 .mid-container {
   margin: 10 auto 0 auto;
+  position: absolute;
   width: 60%;
 }
 .navigation {
