@@ -9,7 +9,6 @@ body {
   background-color: black;
   margin: 0;
   height: 50px;
-  text-align: center;
 }
 .top-container {
   width: 60%;
@@ -41,7 +40,6 @@ form {
 
 .middle {
   margin: 0;
-  text-align: center;
 }
 .mid-container {
   margin: 10px auto 0 auto;
