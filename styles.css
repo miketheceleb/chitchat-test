@@ -53,7 +53,7 @@ form {
 }
 .navigation {
   background-color: white;
-  width: 175px;
+  width: 125px;
   height: 300px;
   display: inline-block;
   text-align: left;
@@ -62,7 +62,7 @@ form {
   background-color: white;
   width: 400px;
   height: 300px;
-  left-padding: 5px;
+  padding-left: 5px;
   display: inline-block;
 }
 .foot {
