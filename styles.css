@@ -26,7 +26,6 @@ div {
   display: inline-block;
   text-align: left;
   margin: 0;
-  line-height: 2;
 }
 .search {
   background-color: black;
@@ -34,7 +33,6 @@ div {
   width: 20%;
   display: inline-block;
   margin: 0;
-  line-height: 2;
 }
 form {
   display: inline-block;
@@ -46,7 +44,6 @@ form {
   display: inline-block;
   text-align: right;
   margin: 0;
-  line-height: 2;
 }
 
 .settings-btn {
