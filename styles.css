@@ -43,6 +43,11 @@ form {
   text-align: right;
 }
 
+.settings-btn {
+  width: 25px
+  height: 25px
+}
+
 /* Body information */
 
 .middle {
